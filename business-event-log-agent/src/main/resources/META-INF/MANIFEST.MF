@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Premain-Class: top.xizai.log.agent.BusinessEvenLogAgent
+Agent-Class: top.xizai.log.agent.BusinessEvenLogAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
